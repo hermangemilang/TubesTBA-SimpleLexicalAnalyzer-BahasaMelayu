@@ -1,0 +1,7 @@
+1. buka file tba.py 
+2. install library streamlit pada pc menggunakan perintah " pip install streamlit " pada terminal 
+3. buka terminal dan masukkan perintah " py -m streamlit run pba.py " 
+4. kemudian code python akan mengalihkan kedalam network url yang ada dalam pc 
+5. hasil program dapat dilihat dan digunakan melalui streamlit app 
+
+program juga dapat dilihat melalui : ttps://share.streamlit.io/telkomtba/tubestba/main/tba.py 
